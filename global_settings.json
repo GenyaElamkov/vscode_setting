@@ -1,0 +1,29 @@
+{
+    "extensions.autoCheckUpdates": false,
+    "update.enableWindowsBackgroundUpdates": false,
+    "extensions.autoUpdate": "onlySelectedExtensions",
+    "update.showReleaseNotes": false,
+    "update.mode": "none",
+
+    "debug.inlineValues": "on",
+    "debug.autoExpandLazyVariables": true,
+
+    "editor.minimap.enabled": false,
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.cursorBlinking": true,
+    "window.commandCenter": false,
+    "workbench.startupEditor": "none",
+    "explorer.autoReveal": false,
+    "explorer.compactFolders": false,
+    "breadcrumbs.enabled": false,
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "workbench.colorTheme": "One Monokai",
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "codeium.enableConfig": {
+
+        "*": true
+    },
+    "codeium.enableSearch": true,
+    "codeium.aggressiveShutdown": true,
+    "files.autoSave": "afterDelay"
+}
